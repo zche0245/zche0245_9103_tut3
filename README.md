@@ -18,3 +18,7 @@ Mcdonald
 - Item 2
     - Sub item 1
     - Sub item 2
+
+![An image of a pussy](http://placekitten.com/200/300 Links to an external site.)
+
+![The Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
